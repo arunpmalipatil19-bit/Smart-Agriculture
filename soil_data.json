@@ -1,0 +1,322 @@
+{
+    "source": "Soil Fertility Atlas for Karnataka, India (2011)",
+    "description": "Taluk-level reference soil pH extracted from district chemical-characteristics tables.",
+    "unit": "pH",
+    "districts": {
+        "Bagalkot": {
+            "district_mean_ph": 7.8,
+            "taluks": {
+                "Badami (580)": 7.5,
+                "Bilagi (240)": 7.5,
+                "Hungund (660)": 8.1,
+                "Jamkhandi (280)": 7.5,
+                "Mudhol (320)": 7.9
+            }
+        },
+        "Bengaluru Urban": {
+            "district_mean_ph": 6.7,
+            "taluks": {
+                "Bengaluru Anekal (900) Urban": 6.6,
+                "Bengaluru East (240)": 7.3,
+                "Bengaluru North (920)": 6.5,
+                "Bengaluru South (620)": 7.0
+            }
+        },
+        "Belagavi": {
+            "district_mean_ph": 7.3,
+            "taluks": {
+                "Bailahongal (460)": 7.0,
+                "Belgaum (460)": 6.2,
+                "Belgaum Athani (460)": 7.7,
+                "Chikodi (460)": 7.6,
+                "Gokak (460)": 7.6,
+                "Hukkeri (440)": 7.5,
+                "Khanapur (460)": 5.9,
+                "Ramadurg (460)": 7.4,
+                "Raybag (440)": 8.1,
+                "Saundatti (460)": 7.8
+            }
+        },
+        "Ballari": {
+            "district_mean_ph": 7.4,
+            "taluks": {
+                "Bellary —_ Bellary (400)": 7.1,
+                "Hagaribommana-halli": 7.3,
+                "Hoovina Hadagalli ©": 7.0,
+                "Hospet (280)": 7.3,
+                "Kudligi (360)": 7.2,
+                "Sanduru (300)": 7.2,
+                "Siruguppa (320)": 7.1
+            }
+        },
+        "Bengaluru Rural": {
+            "district_mean_ph": 6.3,
+            "taluks": {
+                "Bengaluru Devanahalli (874) Rural": 6.1,
+                "Doddaballapura": 6.4,
+                "Hoskote (1237)": 6.6,
+                "Nelamangala": 6.1
+            }
+        },
+        "Bidar": {
+            "district_mean_ph": 7.6,
+            "taluks": {
+                "Aurad (600)": 7.7,
+                "Basavakalyan": 7.6,
+                "Bhalki (539)": 7.9,
+                "Homnabad (319)": 7.2
+            }
+        },
+        "Vijayapura": {
+            "district_mean_ph": 8.3,
+            "taluks": {
+                "Bijapur (479)": 8.5,
+                "Bijapur Bagewadi (480)": 8.3,
+                "Indi (480)": 8.2,
+                "Muddebihal": 8.2,
+                "Sindagi (618)": 8.2
+            }
+        },
+        "Chamarajanagar": {
+            "district_mean_ph": 7.7,
+            "taluks": {
+                "Gundlupet (560)": 7.7,
+                "Kollegal (318)": 7.3,
+                "Yalanduru (86)": 7.5,
+                "© Chamarajanagar": 7.9
+            }
+        },
+        "Chikkaballapur": {
+            "district_mean_ph": 6.9,
+            "taluks": {
+                "Chikaballapur (476)": 6.4,
+                "Chikaballapur Bagepalli (344)": 7.3,
+                "Chintamani (352)": 6.9,
+                "Gauribidanur (305)": 7.4,
+                "Gudibande (352)": 6.8,
+                "Sidlaghatta (428)": 6.8
+            }
+        },
+        "Chikkamagaluru": {
+            "district_mean_ph": 6.5,
+            "taluks": {
+                "Chikamagalur Chikamagalur (880)": 6.4,
+                "Kadur (1140)": 7.3,
+                "Koppa (320)": 5.3,
+                "Mudigere (560)": 5.5,
+                "Narasimharajapura": 5.3,
+                "Sringeri (200)": 5.5,
+                "Tarikere (820)": 7.0
+            }
+        },
+        "Chitradurga": {
+            "district_mean_ph": 7.8,
+            "taluks": {
+                "Challakere (200)": 7.5,
+                "Hiriyur (245)": 7.9,
+                "Holalkere (225)": 7.3,
+                "Hosadurga (213)": 7.7,
+                "Molakalmuru (259)": 7.9
+            }
+        },
+        "Dakshina Kannada": {
+            "district_mean_ph": 5.5,
+            "taluks": {
+                "Bantwal (319)": 5.6,
+                "Dakshina Belthangady (320) Kannada": 5.6,
+                "Mangalore (359) =": 5.4,
+                "Puttur (260)": 5.4,
+                "Sulya (160)": 5.6
+            }
+        },
+        "Davanagere": {
+            "district_mean_ph": 7.0,
+            "taluks": {
+                "Channagiri": 6.7,
+                "Davanagere": 6.9,
+                "Harapanahalli": 7.4,
+                "Harihara (319)": 7.3,
+                "Honnali (466)": 6.7,
+                "Jagalur (557)": 7.3
+            }
+        },
+        "Dharwad": {
+            "district_mean_ph": 7.4,
+            "taluks": {
+                "Dharwad (270)": 6.9,
+                "Hublli (320)": 7.4,
+                "Kalghatgi (159)": 6.7,
+                "Kundgol (200)": 8.1,
+                "Navalagund": 8.3
+            }
+        },
+        "Gadag": {
+            "district_mean_ph": 8.2,
+            "taluks": {
+                "Gadag (256)": 8.3,
+                "Mundargi (236)": 8.1,
+                "Nargund (119)": 8.4,
+                "Ron (339)": 8.3,
+                "Shirhatti (320)": 8.1
+            }
+        },
+        "Kalaburagi": {
+            "district_mean_ph": 8.0,
+            "taluks": {
+                "Afzalpur (358)": 8.1,
+                "Chincholi (580)": 7.5,
+                "Chitapur (516)": 8.1,
+                "Gulbarga (598)": 8.1,
+                "Gulbarga Aland (518)": 7.9,
+                "Jevargi (592)": 8.3,
+                "Sedam (478)": 8.1
+            }
+        },
+        "Hassan": {
+            "district_mean_ph": 6.3,
+            "taluks": {
+                "Arkalgud (1358)": 6.2,
+                "Arsikere (1436)": 7.2,
+                "Belur (1692)": 5.9,
+                "Channaraya pattana": 6.8,
+                "Holenarsipur": 6.6,
+                "— Alur (966)": 5.8
+            }
+        },
+        "Haveri": {
+            "district_mean_ph": 7.7,
+            "taluks": {
+                "Byadgi(200)": 7.5,
+                "Hangal (136)": 7.0,
+                "Hirekerur (180)": 8.0,
+                "Ranibennur": 8.2,
+                "Savanur (371)": 8.1,
+                "Shiggaon(185)": 6.7
+            }
+        },
+        "Kodagu": {
+            "district_mean_ph": 5.6,
+            "taluks": {
+                "Madikeri": 5.5,
+                "Somvarpet": 5.7,
+                "Virajpet (380)": 5.4
+            }
+        },
+        "Kolar": {
+            "district_mean_ph": 7.0,
+            "taluks": {
+                "Bangarapet": 7.1,
+                "Malur (500)": 7.2,
+                "Mulbagal (345)": 6.9,
+                "Srinivaspur": 6.8
+            }
+        },
+        "Koppal": {
+            "district_mean_ph": 7.7,
+            "taluks": {
+                "Gangawati (600)": 8.0,
+                "Kushtagi (700)": 8.0,
+                "Yelbarga (599)": 7.4
+            }
+        },
+        "Mandya": {
+            "district_mean_ph": 6.8,
+            "taluks": {
+                "Krishnarajpet": 6.8,
+                "Maddur (620)": 6.5,
+                "Malavalli (680)": 6.7,
+                "Nagamangala": 6.6,
+                "Pandavapura": 6.9,
+                "Shriranga- pattana ©": 6.8
+            }
+        },
+        "Mysuru": {
+            "district_mean_ph": 6.8,
+            "taluks": {
+                "Hunsur (760)": 6.7,
+                "Krishnaraja- nagar": 7.2,
+                "Mysore (540)": 6.9,
+                "Mysore Heggada- devana": 6.7,
+                "Nanjangud": 7.3,
+                "Piriyapatna": 6.2,
+                "T. Narsipur": 6.4
+            }
+        },
+        "Raichur": {
+            "district_mean_ph": 8.2,
+            "taluks": {
+                "Devadurga": 8.3,
+                "Lingsugur": 8.3,
+                "Manvi (689)": 8.4,
+                "Sindhanur": 8.4
+            }
+        },
+        "Ramanagara": {
+            "district_mean_ph": 6.4,
+            "taluks": {
+                "Kanakapura": 6.4,
+                "Magadi (888)": 6.1,
+                "Rama- Channapatna nagara": 6.7,
+                "Ramanagara": 6.4
+            }
+        },
+        "Shivamogga": {
+            "district_mean_ph": 5.6,
+            "taluks": {
+                "Hosanagara": 5.3,
+                "Sagar (960)": 5.3,
+                "Shikaripura": 6.2,
+                "Shimoga (860)": 5.9,
+                "Shimoga Bhadravati": 5.9,
+                "Sorab (1180)": 5.6,
+                "Thirthahalli": 5.1
+            }
+        },
+        "Tumakuru": {
+            "district_mean_ph": 6.6,
+            "taluks": {
+                "Gubbi (284)": 6.2,
+                "Koratagere": 6.3,
+                "Kunigal (506) =": 6.1,
+                "Madhugiri (411)": 6.9,
+                "Pavagada (134)": 7.9,
+                "Sira (179)": 7.2,
+                "Tiptur (240)": 6.9,
+                "Tumkur (498)": 6.2,
+                "Tumkur Chikanayakan halli": 6.8,
+                "Turuvekere": 7.0
+            }
+        },
+        "Udupi": {
+            "district_mean_ph": 6.0,
+            "taluks": {
+                "Karkal (180) =": 6.1,
+                "Kundapura": 5.9
+            }
+        },
+        "Uttara Kannada": {
+            "district_mean_ph": 5.5,
+            "taluks": {
+                "Bhatkal (240)": 5.5,
+                "Haliyal (440)": 6.2,
+                "Honnavar (360)": 5.2,
+                "Joida (460)": 6.0,
+                "Karwar (200) —": 5.2,
+                "Kumta (440)": 5.2,
+                "Mundgod (340)": 6.1,
+                "Siddapur (780)": 5.3,
+                "Sirsi (880)": 5.4,
+                "Uttara Ankola (320) ~— Kannada": 5.2,
+                "Yellapur (520)": 5.6
+            }
+        },
+        "Yadgir": {
+            "district_mean_ph": 7.9,
+            "taluks": {
+                "Karnataka Karnataka State State": 6.8,
+                "Shahpur (638)": 8.0,
+                "Shorapur (736)": 8.1
+            }
+        }
+    }
+}
